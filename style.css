@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Neucha&family=Press+Start+2P&display=swap');
+.razc
+{
+  font-size: larger;
+}
+.Zagalov
+{
+  background: #ffb5b5;
+  padding: 20px 20px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 40px;
+}
+.Zagalov h1
+{
+  font-size: 6rem;
+  
+}
+.form-group label
+{
+  display: blocks;
+}
+.form-group input
+{
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  background: transparent;
+  border-bottom: 1px solid #d2d2d2;
+  padding: 10px 0 15px;
+  outline: none;
+  font-family: inherit;
+}
+@media(max-width: 700px)
+{
+  .nachalo
+  {
+    display: block;
+    text-align: center;
+  }
+
+}
+.list li
+{
+  
+  margin-bottom: 20px;
+}
+.card
+{
+  background: #ffffff;
+  padding: 50px 50px;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 40px;
+}
+body
+{
+ background-color: #faf8ef;
+ color: #7c2e3a;
+
+ font-size: 30px;
+ font-family: 'Neucha', cursive;
+ 
+}
+.ba a
+{
+  color:#501921;
+  text-decoration: none;
+}
+a:hover
+{
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+}
+
+.AVATAR
+{
+  float: left;
+  width: 48.4%;
+  height: 683px;
+  border: 10px solid #ffffff;
+  object-fit: cover;
+  object-position: 50% 50%;
+  border-radius: 20px;
+    
+}
+.rovno
+{
+  text-align: center;
+  
+}
+.slava
+{
+  width: 747px;
+  height: 783px;
+  display: block; margin: 0 auto;
+  object-fit: cover;
+  object-position: 50% 50%;
+  border-radius: 20px;
+}
+.naklon p
+{
+  font-style: italic;
+  letter-spacing: 2px;
+  font-weight:500;
+}
+.vezde
+{
+  text-align: justify;
+  padding-top: 40px;
+}
+.nachalo
+{
+  max-width: 100%;
+  margin: auto;
+}
+.tablichka
+{
+  background: #e8b8bf;
+}
